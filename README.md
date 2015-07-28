@@ -29,5 +29,7 @@ This API is left here as a demonstration of the pedogogical work performed in my
 Report and Stuff and Junk
 ------------
 
-When my code did work, I ran some tests and compiled a report of the performance between the two implementations. Including in the code files is a list of hash functions that could be utilized in the Hash Table. This is an area I would definitely want to learn more about, because it is far from intuitive. Maybe a class on cryptography would be in order?? 
+When my code did work, I ran some tests and compiled a report of the performance between the two implementations. Including in the code files is a list of hash functions that could be utilized in the Hash Table. This is an area I would definitely want to learn more about, because it is far from intuitive. Maybe a class on cryptography would be in order??
+
+The one nice thing about this last (HashTable) assignment was that we utilized everything we coded (see my String and DDList classes), as well as it incorporated the Record data type provided by the professor. In this assignment, we put our working HashTable up against our previous assignment for the binary search tree (included together here). As a course design, this really reinforced our work effort, to build up a large working program from various parts, and it forced us to ensure our code worked along the way! Kudos for that. 
 
